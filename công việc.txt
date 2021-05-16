@@ -1,0 +1,7 @@
+Phân công công việc:
+ 	1. Quản lý thông tin nhân viên ( thêm,sửa,xóa)
+	2. Quản lý phòng ban (thêm,sửa,xóa)
+	3. Quản lý chức vụ ( thêm,sửa,xóa)
+	4. Quản lý lương ( thêm,sửa,xóa)
+	5. Tìm kiếm nhân viên (theo mã nv,tên nv)
+	6. Hướng dẫn sử dụng
