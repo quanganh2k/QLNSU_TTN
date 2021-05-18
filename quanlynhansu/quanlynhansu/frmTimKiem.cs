@@ -101,5 +101,27 @@ namespace quanlynhansu
             string que = "Select * from NHANVIEN";
             dataGridView1.DataSource = ExecuteQuery(que);
         }
+
+        private void btnXacNhan_Click(object sender, EventArgs e)
+        {
+            //tim kiem
+            string que = "";
+            if(rdbtnMaNV.Checked == false && rdbtnTenNV.Checked == false)
+            {
+                MessageBox.Show("Chọn Trường Cần Tìm Kiếm");
+                return;
+            }
+            if(rdbtnMaNV.Checked == true)
+            {
+                que = "select * from NHANVIEN where MaNV like N'%" + txtTimKiemNV.Text + "%'";
+                dataGridView1.DataSource = ExecuteQuery(que);
+            }
+            if (rdbtnTenNV.Checked == true)
+            {
+                que = "select * from NHANVIEN where TenNV like N'%" + txtTimKiemNV.Text + "%'";
+                dataGridView1.DataSource = ExecuteQuery(que);
+            }
+            if (dataGridView1.RowCount == 1) MessageBox.Show("Không Có Tìm Kiếm Phù Hợp");
+        }
     }
 }

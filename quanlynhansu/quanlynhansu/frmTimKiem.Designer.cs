@@ -113,6 +113,7 @@
             this.btnXacNhan.TabIndex = 39;
             this.btnXacNhan.Text = "Xác nhận";
             this.btnXacNhan.UseVisualStyleBackColor = true;
+            this.btnXacNhan.Click += new System.EventHandler(this.btnXacNhan_Click);
             // 
             // frmTimKiem
             // 
