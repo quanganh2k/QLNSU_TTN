@@ -46,7 +46,7 @@
             this.btnXoa.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnXoa.Location = new System.Drawing.Point(448, 99);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnXoa.Margin = new System.Windows.Forms.Padding(2);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(66, 27);
             this.btnXoa.TabIndex = 15;
@@ -59,7 +59,7 @@
             this.btnSua.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnSua.Location = new System.Drawing.Point(328, 99);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(2);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(66, 27);
             this.btnSua.TabIndex = 14;
@@ -72,7 +72,7 @@
             this.btnThem.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnThem.Location = new System.Drawing.Point(208, 99);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(2);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(66, 27);
             this.btnThem.TabIndex = 13;
@@ -83,7 +83,7 @@
             // txtTenCV
             // 
             this.txtTenCV.Location = new System.Drawing.Point(328, 64);
-            this.txtTenCV.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtTenCV.Margin = new System.Windows.Forms.Padding(2);
             this.txtTenCV.Name = "txtTenCV";
             this.txtTenCV.Size = new System.Drawing.Size(125, 20);
             this.txtTenCV.TabIndex = 12;
@@ -103,7 +103,7 @@
             // txtMaCV
             // 
             this.txtMaCV.Location = new System.Drawing.Point(328, 32);
-            this.txtMaCV.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtMaCV.Margin = new System.Windows.Forms.Padding(2);
             this.txtMaCV.Name = "txtMaCV";
             this.txtMaCV.Size = new System.Drawing.Size(125, 20);
             this.txtMaCV.TabIndex = 10;
@@ -124,7 +124,7 @@
             // 
             this.panel1.Controls.Add(this.dtgvChucVu);
             this.panel1.Location = new System.Drawing.Point(103, 149);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(464, 193);
             this.panel1.TabIndex = 8;
@@ -135,7 +135,7 @@
             this.dtgvChucVu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgvChucVu.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dtgvChucVu.Location = new System.Drawing.Point(0, 0);
-            this.dtgvChucVu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dtgvChucVu.Margin = new System.Windows.Forms.Padding(2);
             this.dtgvChucVu.Name = "dtgvChucVu";
             this.dtgvChucVu.RowHeadersWidth = 51;
             this.dtgvChucVu.RowTemplate.Height = 24;
@@ -157,7 +157,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmQLchucvu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmQLchucvu";

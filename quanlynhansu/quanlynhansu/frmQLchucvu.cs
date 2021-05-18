@@ -68,19 +68,22 @@ namespace quanlynhansu
             }
             else
             {
-
-                string tencv = txtTenCV.Text;
-                string macv = txtMaCV.Text;
-                string query = string.Format("insert into CHUCVU (MaCV,TenCV) values ('{0}',N'{1}')",macv,tencv);
-                if (DataProvider.Instance.ExecuteNonQuery(query)>0)
-                {
-                    MessageBox.Show("Thêm chức vụ thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    load();
+                try {
+                    string tencv = txtTenCV.Text;
+                    string macv = txtMaCV.Text;
+                    string query = string.Format("insert into CHUCVU (MaCV,TenCV) values ('{0}',N'{1}')", macv, tencv);
+                    if (DataProvider.Instance.ExecuteNonQuery(query) > 0)
+                    {
+                        MessageBox.Show("Thêm chức vụ thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        load();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Thêm chức vụ không thành công", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
                 }
-                else
-                {
-                    MessageBox.Show("Thêm chức vụ không thành công", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
+                
+                catch { MessageBox.Show("Trùng lặp mã chức vụ","Lỗi",MessageBoxButtons.OK,MessageBoxIcon.Error); }
             }
         }
 
@@ -108,5 +111,6 @@ namespace quanlynhansu
                 }
             }
         }
+
     }
 }
