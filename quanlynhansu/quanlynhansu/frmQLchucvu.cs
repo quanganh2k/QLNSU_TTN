@@ -32,7 +32,7 @@ namespace quanlynhansu
             else
             {
                 string macv = txtMaCV.Text;
-                string query = string.Format("Delete from CHUCVU where MaCV = '{0}'", macv);
+                string query = string.Format("exec XoaCV '{0}'", macv);
                 if (DataProvider.Instance.ExecuteNonQuery(query) > 0)
                 {
                     MessageBox.Show("Xóa chức vụ thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
