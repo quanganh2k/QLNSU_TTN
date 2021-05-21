@@ -74,8 +74,10 @@ namespace quanlynhansu
         {
             if (txtMaLuong.Text != "")
             {
-                string query = "Delete From LUONG " +
-                                "Where MaLuong = '" + txtMaLuong.Text + "'";
+                string query = "update NHANVIEN " +
+                                "set MaLuong = null " +
+                                "where MaLuong = '" + txtMaLuong.Text + "' " +
+                                "delete from LUONG where MaLuong = '" + txtMaLuong.Text + "'";
                 string info = txtMaLuong.Text + "  |  " + txtBacLuong.Text + "  |  " + txtLuongCB.Text;
                 DialogResult dr = MessageBox.Show("Bạn có chắc chắn muốn xóa thông tin này ?\n" + info, "Xóa Lương", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
                 if (dr == DialogResult.Yes)
