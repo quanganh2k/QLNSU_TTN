@@ -1,0 +1,41 @@
+create or alter proc thempb (@ma nvarchar(20), @ten nvarchar(50))
+as
+if(select count(mapb) from PHONGBAN where MaPB= @ma)>0
+print(N'Mã phòng ban đã trùng mời chọn mã khác')
+else
+begin
+	insert into PHONGBAN(MaPB, TenPB) values(@ma, @ten)
+	print(N'Đã thêm phòng ban thành công')
+end
+go
+CREATE OR ALTER   proc [dbo].[suapb] (@ma nvarchar(20), @ten nvarchar(50),@macu nvarchar(20))
+as
+if(select count(mapb) from PHONGBAN where MaPB= @macu)=0
+print(N'Không tồn tại mã phòng ban này mời chọn mã khác')
+else
+if(@ma<>@macu)
+print(N'Mã phòng ban không được thay đổi')
+else
+begin
+	update  PHONGBAN set tenpb= @ten where MaPB=@macu
+	update NHANVIEN set MaPB = @ma where MaPB= @macu
+	print(N'Đã sửa phòng ban thành công')
+end
+GO
+
+create or alter proc xoapb (@ma nvarchar(20), @ten nvarchar(50))
+as
+if(select count(mapb) from PHONGBAN where MaPB= @ma)=0
+print(N'Mã phòng ban không tồn tại mời chọn mã khác')
+else
+begin
+	delete PHONGBAN where MaPB=@ma
+	print(N'Đã xóa phòng ban thành công')
+end
+go
+
+
+create or alter trigger xoaphongban on phongban instead of delete
+as
+delete NHANVIEN where MaPB in(select MaPB from deleted )
+go
