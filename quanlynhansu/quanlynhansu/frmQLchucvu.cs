@@ -89,7 +89,6 @@ namespace quanlynhansu
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            txtMaCV.Enabled = false;
             if (txtMaCV.Text == "" || txtTenCV.Text == "")
             {
                 MessageBox.Show("Bạn chưa nhập thông tin!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
