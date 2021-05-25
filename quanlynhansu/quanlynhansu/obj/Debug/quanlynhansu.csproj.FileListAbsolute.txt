@@ -88,6 +88,7 @@ C:\Users\minht\Source\Repos\quanganh2k\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\D
 C:\Users\minht\Source\Repos\quanganh2k\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
 C:\Users\minht\Source\Repos\quanganh2k\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
 C:\Users\minht\Source\Repos\quanganh2k\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
+<<<<<<< HEAD
 C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
 C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe
 C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.pdb
@@ -106,3 +107,23 @@ C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\ob
 C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
 C:\Users\User\OneDrive\Desktop\New folder\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
+=======
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.pdb
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csprojAssemblyReference.cache
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmDangNhap.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmHuongdan.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLchucvu.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLluong.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLphongban.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLtaikhoan.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLthongtinnv.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmTimKiem.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmTrangChu.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.cache
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
+G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
+>>>>>>> e8120cf4a1c43869120d06c73bff447b54afc1e7
