@@ -1,0 +1,6 @@
+Ở tab phong ban có thể:
+- Thêm 1 phong ban trong công ti: nhập đầy đủ thông tin rồi nhấn "Thêm". 
+Thành công nếu có báo cáo thành công.
+- Sửa thông tin phong ban: Chọn 1 trường thông tin cần sửa và thay đổi 
+thông tin rồi nhấn "Sửa".
+- Xóa phong ban: chọn thông tin phong ban và nhấn "Xóa".

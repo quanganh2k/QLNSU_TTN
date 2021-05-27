@@ -13,7 +13,8 @@ namespace quanlynhansu
 {
     public partial class frmQLthongtinnv : Form
     {
-        string conn = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        //string conn = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        string conn = DataProvider.connectionSTR;
         public frmQLthongtinnv()
         {
             InitializeComponent();

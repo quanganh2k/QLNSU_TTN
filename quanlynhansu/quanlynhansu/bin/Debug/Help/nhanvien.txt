@@ -1,0 +1,6 @@
+Ở tab vụ quản lý nhân viên có thể:
+- Thêm 1 nhân viên mới: Sau khi nhập đầy đủ thông tin thì có t
+hể nhấn vào button thêm để thêm. Nếu báo thành công là được.
+- Sửa thông tin của nhân viên: chọn nhân viên co thông tin cần 
+sửa sau đó sửa lại thông tin và nhấn "Sửa". 
+- Xóa 1 nhân viên: chọn nhân viên cần xóa rồi nhấn xóa.

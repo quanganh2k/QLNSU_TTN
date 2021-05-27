@@ -22,7 +22,8 @@ namespace quanlynhansu
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            string connectionStr = @"Data Source=DESKTOP-53IQ0S1\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+            //string connectionStr = @"Data Source=DESKTOP-53IQ0S1\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+            string connectionStr = DataProvider.connectionSTR;
             SqlConnection connection = new SqlConnection(connectionStr);
             connection.Open();
             string tk = txtTenDangNhap.Text;

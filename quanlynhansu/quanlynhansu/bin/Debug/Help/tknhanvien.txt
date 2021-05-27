@@ -1,0 +1,5 @@
+Ở tab tìm kiếm thông tin nhân viên:
+- Tìm kiếm theo mã nhân viên: nhập mã tìm kiếm vào và nhấn
+"Xác nhận". Kết quả sẽ hiện thị ngay dưới.
+- Tìm kiếm theo tên: nhập tên nhân viên cần tìm kiếm và 
+nhấn "Xác nhận". Kết quả sẽ hiện thi ngay dưới.

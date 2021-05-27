@@ -19,7 +19,8 @@ namespace quanlynhansu
         }
 
 
-        string constr = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        //string constr = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        string constr = DataProvider.connectionSTR;
         void load()
         {
             using (SqlConnection sqlcon = new SqlConnection(constr))

@@ -127,3 +127,21 @@ G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu
 G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
 G:\Thực tập nhóm\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb
 >>>>>>> e8120cf4a1c43869120d06c73bff447b54afc1e7
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe.config
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.exe
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\bin\Debug\quanlynhansu.pdb
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csprojAssemblyReference.cache
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmDangNhap.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmHuongdan.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLchucvu.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLluong.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLphongban.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLtaikhoan.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmQLthongtinnv.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmTimKiem.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.frmTrangChu.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.Properties.Resources.resources
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.GenerateResource.cache
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.csproj.CoreCompileInputs.cache
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.exe
+D:\Kì 2 năm 3\Thức tập nhóm\QLNS_QA\QLNSU_TTN\quanlynhansu\quanlynhansu\obj\Debug\quanlynhansu.pdb

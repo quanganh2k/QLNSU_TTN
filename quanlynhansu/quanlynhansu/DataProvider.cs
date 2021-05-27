@@ -13,6 +13,7 @@ namespace quanlynhansu
     {
         private static DataProvider instance;
         private string connectionSTR = @"Data Source=.\sqlexpress;Initial Catalog=QLNhanSu;Integrated Security=True";
+        //public static string connectionSTR = @"Data Source=localhost;Initial Catalog=QLNhanSu;Integrated Security=True";
 
         public static DataProvider Instance 
         {

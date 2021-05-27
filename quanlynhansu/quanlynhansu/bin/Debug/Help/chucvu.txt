@@ -1,0 +1,6 @@
+Ở tab chức vụ có thể:
+- Thêm 1 chức vụ trong công ti: nhập đầy đủ thông tin rồi nhấn "Thêm". 
+Thành công nếu có báo cáo thành công.
+- Sửa thông tin chức vu: Chọn 1 trường thông tin cần sửa và thay đổi 
+thông tin rồi nhấn "Sửa".
+- Xóa chức vụ: chọn chức vụ và nhấn "Xóa".

@@ -18,7 +18,8 @@ namespace quanlynhansu
             InitializeComponent();
             LoadInformation();
         }
-        string connectionStr = @"Data Source=DESKTOP-53IQ0S1\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        //string connectionStr = @"Data Source=DESKTOP-53IQ0S1\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        string connectionStr = DataProvider.connectionSTR;
 
 
        
@@ -114,7 +115,6 @@ namespace quanlynhansu
 
         private void LoadInformation()
         {
-            string connectionStr = @"Data Source=DESKTOP-53IQ0S1\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
             SqlConnection connection = new SqlConnection(connectionStr);
             string query = "select * from TAIKHOAN";
             connection.Open();

@@ -13,7 +13,8 @@ namespace quanlynhansu
 {
     public partial class frmTimKiem : Form
     {
-        String ConnectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        //String ConnectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=QLNHANSU;Integrated Security=True";
+        String ConnectionString = DataProvider.connectionSTR;
         public frmTimKiem()
         {
             InitializeComponent();

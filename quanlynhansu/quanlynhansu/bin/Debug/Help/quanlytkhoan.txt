@@ -1,0 +1,6 @@
+Ở tab tài khoản có thể:
+- Thêm 1 tì khoản: nhập đầy đủ thông tin rồi nhấn "Thêm". 
+Thành công nếu có báo cáo thành công.
+- Sửa thông tin tài khoản: Chọn 1 trường thông tin cần sửa và thay đổi 
+thông tin rồi nhấn "Sửa".
+- Xóa chức vụ: chọn tài khoản và nhấn "Xóa".
